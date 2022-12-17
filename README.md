@@ -8,7 +8,7 @@ O site foi feito em django para comunicação entre dispositivo IoT, Nuvem Thing
 
 
 
-# MyBudget
+# Projeto Redes Sem Fio
 
 Esse projeto foi uma proposta da aula de redes da universidade federal de santa catarina - UFSC
 
